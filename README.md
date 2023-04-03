@@ -22,13 +22,13 @@ Tutorial files (in `tutorial/`) are expected to be run and filled by students.
 
 ## Syllabus
 
-- 1. Introduction (Apr. 12)
+1. Introduction (Apr. 12)
     - Course requirements and grading (mini exams and group presentation)
     - What is needed for Evidence-Based Policy Making (EBPM)?
     
-- 2. Tutorial 1: Julia Basics (Apr. 12)
+2. Tutorial 1: Julia Basics (Apr. 12)
 
-- 3. Simple linear regression model (Apr. 26)
+3. Simple linear regression model (Apr. 26)
 
 - 4. Multiple regression analysis (Apr. 26)
 
