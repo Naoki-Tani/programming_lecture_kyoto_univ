@@ -1,3 +1,10 @@
+CSS = """
+.output {
+    align-items: center;
+}
+"""
+HTML('<style>{}</style>'.format(CSS))
+
 ---
 # Programming Exercises for Macroeconomic Policy Making
 
