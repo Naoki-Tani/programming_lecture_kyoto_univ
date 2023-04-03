@@ -1,5 +1,4 @@
 # Programming Exercises for Macroeconomic Policy Making
-
 ---
 
 This repository holds all the course materials for 2023 Programming Exercises for Macroeconomic Policy Making in Kyoto University.
