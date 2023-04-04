@@ -37,9 +37,9 @@ Tutorial files (in `tutorial/`) are expected to be run and filled by students.
 
 6. Tutorial 2: Ruturn to schooling (May 10)
 
-7. Tutorial 3: Basic numerical methods(May 24)
+7. Tutorial 3: Basic numerical methods (May 24)
     
-8. Special lecture made by a staff of the Ministry of Finance (May 24)    
+8. Special lecture made by K. Shonaka (Director for Public Finance, Wakayama Prefecture) (May 24)    
 
 9. Mini exam (open-book) and comments (Jun. 7)  
 
