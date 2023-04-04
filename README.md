@@ -18,7 +18,7 @@ Tutorial files (in `tutorial/`) are expected to be run and filled by students.
 - Need to install Julia, Python, and Jupyter Notebook
 - Easy instructions are given in the following URLs.
   - Julia: https://www.kdnuggets.com/2022/11/setup-julia-jupyter-notebook.html
-  - Jupyte Notebook: https://ai-inter1.com/jupyter-notebook/
+  - Jupyte Notebook: https://jupyter.org/install
 
 ---
 ## Syllabus
