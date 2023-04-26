@@ -30,29 +30,27 @@ Tutorial files (in `tutorial/`) are expected to be run and filled by students.
 
 3. Tutorial 2: Epidemiology model (1) (Apr. 26)  
 
-4. Tutorial 3: Epidemiology model (2) (Apr. 26) 
+4. Mini exam (open-book) and comments (May 11) 
 
-5. Mini exam (open-book) and comments (May 11) 
+5. Tutorial 3: Epidemiology model (2) (May 11) 
 
-6. Basic numerical methods: Numerical differentiation and optimization (May 11)
+6. Basic numerical methods: Numerical differentiation and optimization (May 24)
 
-7. Tutorial 4: Basic numerical methods (1) (May 24)
-    
-8. Special lecture made by K. Shonaka (Director for Public Finance, Wakayama Prefecture) (May 24)
+7. Special lecture made by K. Shonaka (Director for Public Finance, Wakayama Prefecture) (May 24)
 
+8. Tutorial 4: Basic numerical methods (1) (Jun. 7)
+ 
 9. Tutorial 5: Basic numerical methods (2)  (Jun. 7)  
 
-10. Special lecture made by a staff of the Ministry of Finance (Jun. 7)  
+10. Mini exam (open-book) and comments (Jul. 5)  
 
-11. Mini exam (open-book) and comments (Jul. 5)  
+11. Tutorial 6: Data and statistics (1) (Jul. 5)    
 
-12. Tutorial 6: Data and statistics (Jul. 5)    
+12. Tutorial 7: Data and statistics (2) (Jul. 19)    
 
 13. Mini exam (open-book) and comments (Jul. 19)
 
-14. Group presentations (1) (Jul. 19)
-
-15. Group presentations (2) (Jul. 19)
+14. Group presentations (Jul. 19)
 
 
 ---
