@@ -32,9 +32,9 @@ Tutorial files (in `tutorial/`) are expected to be run and filled by students.
 
 4. Tutorial 3: Epidemiology model (2) (Apr. 26) 
 
-5. Mini exam (open-book) and comments (May 10) 
+5. Mini exam (open-book) and comments (May 11) 
 
-6. Basic numerical methods: Numerical differentiation and optimization (May 10)
+6. Basic numerical methods: Numerical differentiation and optimization (May 11)
 
 7. Tutorial 4: Basic numerical methods (1) (May 24)
     
