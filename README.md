@@ -5,6 +5,11 @@
 This repository holds all the course materials for 2023 Programming Exercises for Macroeconomic Policy Making in Kyoto University.
 
 ---
+## Instructor
+
+[Naoki Tani](https://naoki-tani.github.io/) (Program-Specific Associate Professor, Research Center for Advanced Policy Studies (CAPS), Institute of Economic Research, Kyoto University)
+
+---
 ## Material
 
 The materials are written inside notebooks and markdown files (usually in `slides/`).
