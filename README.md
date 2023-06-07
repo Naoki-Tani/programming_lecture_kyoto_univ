@@ -47,20 +47,18 @@ Tutorial files (in `tutorial/`) are expected to be run and filled by students.
  
 9. Tutorial 6: Basic numerical methods (1)  (Jun. 7)  
 
-10. Mini exam (open-book) and comments (Jul. 5)  
+10. Tutorial 7: Basic numerical methods (2) (Jul. 5)    
 
-11. Tutorial 7: Basic numerical methods (2) (Jul. 5)    
+11. Tutorial 8: Neoclassical growth model (1) (Jul. 5)    
 
-12. Tutorial 8: Neoclassical growth model (1) (Jul. 19)    
+12. Tutorial 9: Neoclassical growth model (2) (Jul. 19)
 
-13. Tutorial 9: Neoclassical growth model (2) (Jul. 19)
-
-14. Mini exam (open-book) and comments (Jul. 19)
+13. Mini exam (open-book) and comments (Jul. 19)
 
 
 ---
 ## Grading
 
-- 3 mini exams (75%)
+- 2 mini exams (75%)
 
 - Group presentation (25%)
